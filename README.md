@@ -2,14 +2,22 @@
 
 PARANORMASIGHT: The Seven Mysteries of Honjo — 혼조 7대 불가사의
 
-**Steam Windows판 / 일본어 원문 기반 / v0.1 미검수**
+**Steam Windows판 / 일본어 원문 기반 / v0.1.3 미검수**
 
 ## 다운로드
 
-[v0.1 패치 다운로드 — GitHub Releases](https://github.com/santaK0726/paranormasight-kr-patch/releases/tag/v0.1)
+[v0.1.3 패치 다운로드 — GitHub Releases](https://github.com/santaK0726/paranormasight-kr-patch/releases/tag/v0.1.3)
 
-릴리스의 `PARANORMASIGHT_KR_v0.1_20261025.zip`을 받으세요. 압축 안에 전용 설치 EXE, 설치 안내와 라이선스가 들어 있습니다.
+릴리스의 `PARANORMASIGHT_KR_v0.1.3_20261025.zip`을 받으세요. 압축 안에 전용 설치 EXE, 설치 안내와 라이선스가 들어 있습니다.
 자동 생성되는 Source code ZIP은 설치 패치가 아닙니다. 게임 원본은 별도 구매가 필요합니다.
+
+## v0.1.3 누적 변경 / 기존 설치자
+
+- 인명·지명·루비 강조 구간139문구의 띄어쓰기 수정.
+- 츠가루·코마가타·츠츠미 테츠오·죠노우치·쵸자와·네츠케 등480문구의 표기 통일. 기존 이름 입력 정답도 유지.
+- 캐릭터 소개와 사망 표시의 고딕 글꼴·크기·자간·단어 간격·배치 개선.
+
+**기존 설치자는 게임을 종료하고, 기존 설치 EXE로 원본 복구한 다음 v0.1.3을 설치하세요.** 새 소개 화면의 실제 확인과 전체 플레이 검수는 미완료입니다. [변경 내역](docs/CHANGELOG_KO.txt)
 
 ## 설치
 
