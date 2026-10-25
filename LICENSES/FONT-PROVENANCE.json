@@ -1,0 +1,33 @@
+{
+  "modern_body": {
+    "family": "Paranormasight Modern KR Development",
+    "sha256": "2ea0a2692fa130fbf78859aca02e5bc8d7acd664ff670550dac070ab5d304965",
+    "weight": 500,
+    "sources": [
+      "3090ccde0442bb347aa7685d9ba8b17436a60682df6e8f92a9a670de14056e22",
+      "29e9182dc6065dbe618b94ddeb28a7f3ceeb425f6a1e88acbb659a6f68bb7fc9"
+    ],
+    "original_CJK_codepoints_preserved": 44812,
+    "Hangul_syllables": 11172
+  },
+  "Serif_TEL0P": {
+    "family": "Paranormasight Editorial KR Development",
+    "sha256": "3f471a125e392755d1228d2d4281cded58558ed224539a5356d88fad3caafe8e",
+    "primary": "Nanum Myeongjo Bold",
+    "primary_sha256": "bc9ed8e60d93fe6db054b8fb988481b625f2eef8cb2317ad0e9834681b8fe3f3",
+    "end_brush": "East Sea Dokdo (끝 only)",
+    "brush_sha256": "8cebb39d375134fdbcedef9bf4ec4f6c3f02c39ed0aacd6e83f7a0f435e593b2",
+    "Noto_Serif_CJK_complement_sha256": "06bfd1a55de010f7c6797684cd40735f3eade3314bc8d4df317fa44d4a651882",
+    "source_commit": "e7db6ca603fd4862010383ff17ffd6cc4ffac1c0",
+    "all_11172_Hangul": true,
+    "original_CJK_preserved": true
+  },
+  "licenses": {
+    "Noto-OFL.txt": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2",
+    "Noto-Serif-OFL.txt": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2",
+    "Modern-Primary-OFL.txt": "82e9c8a4b203261f10ddba1296422d64914ff3d4b7bd8a12896d03f0f088d70a",
+    "Editorial-Primary-OFL.txt": "8eb1c1019fe7fe6d0b6e7d7bbbba1d9cbdd969d8c5f26455708f6cfb8a77284c",
+    "End-Brush-OFL.txt": "39de3de5f1873f89bca4af37823ab22e28e88d0d8f7fe2f07e82e9e6e9bf7b70"
+  },
+  "runtime_scope": "User-requested reference-inspired serif/end brush style; actual new appearance not yet user confirmed. Earlier modern MAIN approval retained."
+}
