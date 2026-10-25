@@ -1,0 +1,7 @@
+Installer, codec and native name-display helper are project-authored.
+Permission is granted to copy and redistribute these authored components as
+part of this Korean fan-translation patch, retaining these notices. They are
+provided as-is, without warranty. No rights to the original game are granted.
+Third-party fonts retain their respective copyright and SIL OFL1.1 terms.
+The source-required payload does not include whole original game executables,
+metadata, complete retail asset files, source-language corpus or user saves.
